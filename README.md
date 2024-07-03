@@ -28,3 +28,19 @@ The Budget Allocation Application is a tool designed to help RKL Insurance plan 
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/budget-allocation-app.git
+   Navigate to the project directory:
+   ```sh
+   cd budget-allocation-app
+   
+Install dependencies:
+   ```sh
+   npm install
+
+Start the development server:
+   ```sh
+   npm start
+
+### Usage
+Open your browser and navigate to http://localhost:3000.
+Use the interface to add, edit, or delete budget entries.
+Visualize the budget allocations using the provided charts.
